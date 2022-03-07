@@ -1,6 +1,6 @@
-# ACCESO
+# **ACCESO**
 
-> En shell ->
+> En shell
 
 1.  mongod
 2.  mongo
@@ -26,7 +26,7 @@
 
 ---
 
-## OPERADORES
+## **OPERADORES**
 
 - **`$eq`** -> equals
 - **`$gt`** -> greater than
@@ -40,13 +40,15 @@
 
 ---
 
-## ALGUNOS COMANDOS
+## **ALGUNOS COMANDOS GENERALES**
 
 - **`use database_name`**
 
   > // nos cambia(posiciona) a esa base de datos o en su defecto, la crea
 
 - **`show databases;`**
+
+  > // muestra las bases de datos
 
 - **`show dbs;`**
 
@@ -72,3 +74,9 @@
   > // PERMITE IMPORTAR FICHEROS PARA NUESTRA DB... **TIENEN QUE SER .JS**
 
 ---
+
+## **Notas**
+
+- ### cursores, proyecciones, limites en : **"comados documentos/consultas.md"**
+
+- ### otro
